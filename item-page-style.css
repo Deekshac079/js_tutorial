@@ -1,0 +1,54 @@
+.ethinic-box-description-1 {
+    background: #fff;
+    padding: 0 10px;
+    margin-top: 12px;
+}
+.ethinic-box-description-1 h6 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+}
+.ethinic-box-description-1 h5 {
+    padding-left: 0;
+    color: #535766;
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    display: block;
+}
+.product-price {
+    font-size: 14px;
+    line-height: 15px;
+    color: #282c3f;
+    white-space: nowrap;
+    margin: 10px 0 6px;
+    font-weight: 700;
+}
+.product-discountedPrice {
+    font-size: 14px;
+    font-weight: 700;
+    color: #282c3f;
+}
+.product-strike {
+    text-decoration: line-through;
+    color: #7e818c;
+    font-weight: 400;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.product-discountPercentage {
+    color: #ff905a;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.ethinic-box-1 {
+    margin: 15px 0;
+}

@@ -1,0 +1,21 @@
+form.formName input {
+    width: 50%;
+}
+form.formName input {
+    width: 50%;
+    margin: 10px 0;
+}
+.submit-btn {
+    width: 50%;
+    text-align: center;
+}
+.submit-btn button {
+    width: 150px;
+    border: 1px solid #1c6df3;
+    background: #1c6df3;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 20px 0;
+    border-radius: 20px;
+}
